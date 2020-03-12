@@ -11,8 +11,8 @@
     <modules>
         <module>naga-core</module>
         <module>naga-entity</module>
-        <module>naga-respository</module>
-        <module>nage-server</module>
+        <module>naga-repository</module>
+        <module>naga-server</module>
     </modules>
 
 
